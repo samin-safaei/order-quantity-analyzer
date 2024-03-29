@@ -35,6 +35,7 @@ In this option the whole environment is local (Rather traditional environment)
     * java (17) jdk + jvm (for running the partner service)
     * Maven (installed locally)
     * Postgres database exposed on port 5432
+    * Redis be running on port 6379
 * Compile and test commands:
     * Simple jar generation: `gradle bootJar`
     * To run tests and generate jar: `gradle test bootJar`
