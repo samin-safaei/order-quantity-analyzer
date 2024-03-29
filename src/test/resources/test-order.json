@@ -1,0 +1,1059 @@
+{
+  "uuid": "786eef8e-ecbc-4d4f-8e2b-68b240987124",
+  "companyName": "CleanHub Bookings",
+  "companyLink": "cleanhub.com",
+  "state": "IN_PROGRESS",
+  "landingPageMode": "RELEASED",
+  "landingPageRoute": "cleanhub-bookings",
+  "fixedGoal": true,
+  "commitment": false,
+  "goalType": "FIXED_AMOUNT",
+  "language": "EN",
+  "quantity": 170.0,
+  "recoveredQuantity": 95.013699,
+  "quantityUnit": "KG",
+  "serviceType": "PLASTIC_RESPONSIBLE",
+  "contractStartDate": "2023-08-23T00:00:00Z",
+  "hub": {
+    "uuid": "85373107-aee0-4fcd-b7a0-feb2b6a5df7a",
+    "displayName": "Support globally",
+    "name": "Portfolio",
+    "category": "PORTFOLIO",
+    "slug": null,
+    "exclusive": false,
+    "location": null,
+    "latitude": null,
+    "longitude": null,
+    "mainVideoUrl": null,
+    "cardDescription": "For the biggest impact, you can support all our projects around the world. The money will be split between the portfolio so that our movement can flourish in all parts of the world.",
+    "mainImage": null,
+    "images": [],
+    "impactReportParagraphs": [
+      {
+        "uuid": "7fbb6478-11cd-4ce1-9c94-93424fdf31f9",
+        "orderNumber": 1,
+        "step": "ASSIGNMENT",
+        "language": "EN",
+        "paragraph": "Our Collection Hubs in India, Indonesia, and Cambodia all intercept waste before it even reaches the environment by collecting it directly from households as well as waterways, and fishermen's bycatch from the ocean. We help build these collection systems, providing communities with access to waste management for the first time to prevent open dumping and burning. Every financial contribution helps to expand the model across coastal regions in this world and creates stable and dignified jobs for local communities."
+      },
+      {
+        "uuid": "309a8569-5633-4f99-a764-c14e9446f56c",
+        "orderNumber": 1,
+        "step": "ASSIGNMENT",
+        "language": "DE",
+        "paragraph": "Unsere Collection Hubs in Indien, Indonesien und Kambodscha fangen den Abfall ab, bevor er überhaupt in die Umwelt gelangt, indem sie ihn direkt von Haushalten, Flüssen und als Beifang der Fischer im Meer einsammeln. Wir helfen beim Aufbau dieser Sammelsysteme, die den Gemeinden zum ersten Mal Zugang zur Abfallwirtschaft verschaffen, um wildes Zugemülle in der Umwelt und offene Verbrennung zu verhindern. Jeder finanzielle Beitrag trägt dazu bei, das Modell auf die Küstenregionen dieser Welt auszuweiten, und schafft stabile und würdige Arbeitsplätze für die lokalen Gemeinschaften."
+      },
+      {
+        "uuid": "6a89faa3-01c0-466a-b0ff-267e6469c3c2",
+        "orderNumber": 1,
+        "step": "COLLECTION",
+        "language": "EN",
+        "paragraph": "After the waste has been collected, it is sorted into different categories so each material can be disposed of correctly. Recyclable plastic is sold to local recyclers, non-recyclable plastic is processed in the most environmentally sustainable way available. We track all the plastic recovered through the CleanHub app."
+      },
+      {
+        "uuid": "dea230a0-9215-4575-82c7-59ba5b727b87",
+        "orderNumber": 1,
+        "step": "COLLECTION",
+        "language": "DE",
+        "paragraph": "Nach dem Sammeln der Abfälle werden diese in verschiedene Kategorien eingeteilt, damit jedes Material korrekt entsorgt werden kann. Recycelbare Kunststoffe werden an örtliche Recycler verkauft, nicht recycelbare Kunststoffe werden auf die ökologisch nachhaltigste Weise verarbeitet. Wir verfolgen das gesamte zurückgewonnene Plastik über die CleanHub-App."
+      }
+    ],
+    "childrenHubs": [
+      {
+        "uuid": "f8f98726-2915-4514-9309-0c146622d73d",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "FULLY_ONBOARDED",
+        "name": "Green Worm Sorting",
+        "displayName": "Green Worms",
+        "cardDescription": "Greens Worms Waste Management organizes door-to-door collection services across southern India, with the help of women empowerment groups.",
+        "slug": "green-worms",
+        "type": "Collection Company",
+        "location": "Kerala, India",
+        "latitude": 11.0928679,
+        "longitude": 75.9824261,
+        "recoveredQuantity": 251301.186,
+        "recoveredQuantityUnit": "KG",
+        "mainImage": {
+          "uuid": "09267ec5-8cd8-41d8-aeab-94fcfb9902f0",
+          "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/a97b434fc590e048cf5bf34d0bf241506c747ace85457669977b6efbd3f21e61?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=c5bf0e404964f419338d85bbe75c9f6f744dab092be358e2aa078afc5b8ab564",
+          "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/f5ca5cf47cce6ad859ec682b614f0fde5d802fcc9b00b659dcec6945d6a8bb13?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8aac4bd8802a34df823449a254af1912288919118974ffa8a447f283201fa8b4",
+          "processedDirectLink": null,
+          "processedThumbnailDirectLink": null,
+          "fileName": "GW_sorting.jpeg",
+          "size": 343179
+        },
+        "images": [
+          {
+            "uuid": "c3d7d1a5-d8ed-44c2-a499-ac072b47c5e2",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/64c0715eb5a63b64eeff4796fb1c8883db5bb1d424f73edb010eec2c037af123?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=9d712d54c24604538a5d58cfbd1f97bde29a9235bd00d1980f51f77525f57fab",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/a036b868f67ccfefea8e6cab2b50f13c824f7c362070efd504ad594314a60c21?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=3be599101f925c46a68aea52222d4600b7111ecec367a6014a49d5945c41bcee",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC00502-1.jpg",
+            "size": 601297
+          },
+          {
+            "uuid": "f6256230-eb08-46c5-80eb-7f3e6107554a",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/146e62fc2dfc4141b6899cdd64399aee7dd27dfcf5929d728a6f5ed5cdbb73aa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=4029ba584361b15cd4bcdae81e122e8101b053a08bb9dd81f884a1fee9287d6f",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/82e5cbfe6f53a33204a43b24f233a1310f8dd5c26ab3dfda27b4f424ae21f651?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=31cb6f3a02c896674cdba394d82be4404ecb3656826f413bc813ac7a06769c61",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC00579-1.jpg",
+            "size": 523137
+          },
+          {
+            "uuid": "18dc0438-ccfb-4ba8-b213-8e82a4f52dbc",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/01bc73853ad8b23a53071700a2239d5dc3360875fed87abe3ad4a1b42ef4984e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0372e3b2c8ecaa4a48da403c19efbd594859e1a757b51f2cd51cd19324f1415b",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/110780c47a9af93c919962aa26387403b7bb218c0e8fb813baedf7b932746909?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=4ecc3e6d43d334864da109b7a10106887bcf1bd40d2d3d3e53696114d8349e47",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC00641-1.jpg",
+            "size": 509039
+          },
+          {
+            "uuid": "b4cea65e-408f-4925-94f8-79b0a77a67a1",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/8ca37d5279efc3e6503aab6adbe712853b5d787f306a8084a0f9def27390bfa0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d50883ffd4df7f292516215e0949d2c047b160dd947430e8dbfd2ba29ee80443",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/df194da97e472c0fd9703be4afe00da6835bb8e4b9766109e62071c770c7e483?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=ee7cbb992da571eb30cf96f53da60eb4d8f6ed72a6e1c11bafc05780c38f4368",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "green_worms_recovery.jpg",
+            "size": 136517
+          },
+          {
+            "uuid": "397e40d7-724c-4f14-abcb-42e9a8b4479f",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/d9697e15c328beedb8f9e3603013792429984ad9a9431ffa27b9d1bee6652580?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=c42b0d91c4218e96889ff7c873605a99f83406950ccf08478ceba1d39341cbc7",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/2812370a18632f6e281741e0a05604199739df2bcef3d8390260944339d9ec66?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=286bb89fed98c37a1dbf25121eab2d5ad7ec480f2cf89d1fe3d42dbd06627f62",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 11.51.30.jpg",
+            "size": 95895
+          },
+          {
+            "uuid": "23e3670a-520e-4df3-8697-ec68e96c0d7b",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/84b5fb4e163074eb9dcfd514cb2689767f492570d6cb4617acf859a30e7da659?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=491232290f611eb9297216836a285f03e505571a49cb7f5ece675791687e4fff",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/8f43f1326ad130e7d1e9e1c52e3c69f7f0ec76d0202f76a1011a183294ad7060?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=22cffa009c398b9daa4e8787abe928574699d7b70b41cc4efae5d32d2e190112",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "loaded_truck.jpg",
+            "size": 313968
+          },
+          {
+            "uuid": "9ae624fa-9fe7-473e-a7bd-a3096c68fb72",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9067d502cec6441da2298b18b13b2234b106d5bbc78d02bb6d87627e0a9ff484?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=747ec2f7072a61309cd6b06afa36fc828391f6441b094b0eeca5812146086fd5",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/fff0dc6ad76de7f2f37227d42298827cca2c0fa0117dc108112c38543f5a67d4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6abae89d5158d55001f7414bdbbe3a3d0a7ddbdbebdbde8ce2307f2b27188043",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 11.53.20.jpg",
+            "size": 389185
+          },
+          {
+            "uuid": "e8a8ed88-4189-4b45-9333-c0948564eae4",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/bdc229fb28886f42d605c78ab1161579d71191eccd80ae24ec265b24715aa6e1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=4398b7058f4fae7682e739281c390617949447e93654ab76ef211e60ed3405f9",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/bea2292ba49413552eee96430b1b606fc4ed776444fc762dcf7541e4614d4a3d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1de18c2d932176f80091033a0ddabdb9e6a283a9cb367b708b8ec42ba6adb302",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 11.56.24.jpg",
+            "size": 234551
+          },
+          {
+            "uuid": "18cc0531-4f8f-4918-affc-576505ac2a68",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/c306da77b88d83215c4d3f011eb1fc2358bc0237ba470ab14a10ba9671ca7acc?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=11dfaec610c39c528434abeba4ec1db96ce1c0f6bc47aa9ca72dd0c61e319688",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/c69b14fbed9052a111947e2070cfd104dc644d136211ce1a49c749bae131a037?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=31ef4f893a8ad234ca51677ac852c68e14af48a4f99cca6aebc8a09f4ce88683",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 11.58.45.jpg",
+            "size": 250729
+          },
+          {
+            "uuid": "dcf9feaa-b203-4858-a29f-33fe1d659fbe",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/aeb23d9b30e4f669f468238bdcaa71326db18b0adac2150c7ea31864067b6e3d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b6747077393a5d9a466b499542b3f70d11d5ccfc2f494914413384a07b0b2abe",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/db4453e3879b87c70c4a67daaf6c7fbca079f90c607765579e52c09537d84cfe?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7626fba4d4de38d4c2458a745fcbf551fcca543b9824988f9cbe09a56c869633",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 15.04.51.jpg",
+            "size": 243660
+          },
+          {
+            "uuid": "380dea0f-2849-4605-867a-5eba358bb7e4",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/304173dd1667eff91952628beadbc0904e9a58e7b1d67643946fa62e9ed42be5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b4a9ed4621ad0bfc60e3c7897aa8c2af5fcc79f13a4ee6bb18087a778adc5e90",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/0bab2041fce7a17c670da759e4fce383734a2e2b2881ac8181d8971b1db05d37?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=90325d1c384696bd2f6e825d388c7427c92cf16236bbbd2ddfa55a9ee8d14671",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 15.05.41.jpg",
+            "size": 250153
+          },
+          {
+            "uuid": "39863f1f-9f4a-4992-a70e-f7335c0c7d04",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/1cc721add05b69edc7b61f414a2c489d380304dde44bb1e4c0a451d0101a36f6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1758ece83c37653b7ec9884d02a124849c532266a081280a453386d490b11f2b",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/33a0338f7a1a30cb387722cc24884fde911086c82563534a9a6bd4b2241f96d3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7db203735aed8f49e1291802d3a1c2502146c4592214871d5c0fa833f9122b28",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 15.03.50.jpg",
+            "size": 205284
+          },
+          {
+            "uuid": "47082217-41f2-410c-b344-893375e12287",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/7bda307798f213c5c7c61a5581f43ea376bf59b74df379d53bfcf26cec8b2eef?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=9f8e86ee540b3c2a9e30bb991bceef6ce7c7e7ec00cb1f0c63b3989902065d14",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/8e2704320aad262872a524c4224c283cfd60cbf6a219ceef7427408079f4890e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b91f6ab6c0abce28cb1e40effcdaa589e3b2aa211b0d046cb3f4a69e475d30ba",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 15.04.09.jpg",
+            "size": 214787
+          },
+          {
+            "uuid": "5ca88589-4fd2-42c3-8519-5608ade37976",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/f6095b4622f1ad829c164c951a82623fadf3532f120f47338de6ef61dc78e26d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=dec7e13965269e48605056acbc7555d9f03011167dda43ee8f69b816a2d1b634",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/627adf293c5dc99079d49268e5a23a185d81b30c3c48e05f7187084169e3a0ac?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=2a9185fd6e9ba46299c94256870ec076028209ada483b635f6a73ba24cf4419c",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 15.04.36.jpg",
+            "size": 401270
+          },
+          {
+            "uuid": "4a617179-a5d6-4d19-964b-9c6311b8753c",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6fafa3c2073dfa149311c516eab9b8e7c8a61a5d524bdcb95029844de4e8281e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=61be3f8c087023ef4c8c9ccbb88f22eb91f663f6a5342a95e9a07d6ae96effa6",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/30914d703998d691231b195061acf1cd3c6b360ccebc07e24130ff02b5f23329?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b76d8651992ce58c3dc92db490f9d4f695aefa099bb1f9bf34fc2dfae4bef84f",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Snímka obrazovky 2021-09-30 o 15.03.27.jpg",
+            "size": 178182
+          },
+          {
+            "uuid": "62e931fc-8fef-47ce-ba6b-bd6514921dc7",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/4fb9fcb480e023cb960dbaefe24f99382b9cb8b503e4a65f511d6480e0105a05?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=39f426f182424229db9f428de9a2d767ff32b8129376e1652ed237cc80e20dcf",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/687fa371b821875a240c1db02b75cd572087b2f5e8a23886c3c66a28b148a5d1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f14f5da6e9ca8773f2db2de29041d1f177686f201a114d49e6da2be984d78346",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "54.png",
+            "size": 749415
+          },
+          {
+            "uuid": "1ae601da-4b62-472e-bcb9-364519bd3fd9",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/7b6b56b573c2e26bcf8c558beaa6da9402dbfc05e6392cbcc72b855be2ac70a8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=bb3e235d9ede464dbe2cccd5eededa029d197e5e45946260dbcba4bd4ffbfe94",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/bae760813af15c575bf4f013ac25af97fd47cd828f7d84805689ad55f80b4b0f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=dae061d0cf4ba3fbb8be89af917d7b9522f4715114c2a2ec6113a7a5e7234fd6",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "55.png",
+            "size": 780515
+          },
+          {
+            "uuid": "d30fc61d-5db3-4f96-8bf4-0069e712023b",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/b2ace70961227cfe09ab37dbcb57666a897889fa8a08a3a7f2b1bbf5f960200b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=529c85575cb28f6e32950a82ee962f626be86f6e54c03187f2815f8ae02729c2",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/4e0155c670867f38b01603431d87d3ada7ec9c87a71588e5dbd8d2b6bed11fb5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=69144de1a5dcf92a4c8634fe35bcce58f8b104e64d16034db32a4642addde80f",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "57.png",
+            "size": 925634
+          },
+          {
+            "uuid": "a7a03881-8c96-4ed7-a766-5aeaafd0f5dd",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/08593725a88ef34771556e736ca6cd2268112a6f149c143cdbae2ee722725247?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=3878ae835976b3603659e33f5b3ba72964cd67e4b00d5f66c142f8d5a2990a1c",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/d76b4fb48896f88c9fea9acb0d0cac3155c4f9220f716aa5401ac62adc8cc27a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8a9089f9e4598a14fab70b34a50d47df01629ae362a12b4d01b45e411701f5ec",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC_0250.JPG",
+            "size": 619142
+          },
+          {
+            "uuid": "2e2558eb-d1d4-4608-bd05-b801cbb881b0",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/761d8f0c6603edac65f2b41b7f26966b0c4e87b4441591a3925d53f293549195?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=cf059ce4e1893adb7c997551631adf92a600f6f29e7c0aee13793cc12b38b5b3",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/3802895744097d8d6cb43b45468c483366e08c90d399d9364081e60839c3805d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d454c30fa60d2e21c1356befe404195243ee047b7b4ae80def2e4ee11020f76f",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC_0290.JPG",
+            "size": 623684
+          },
+          {
+            "uuid": "2420e9c8-1067-405a-8b64-c352fa3eaa8b",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/5c8e6f0293aa2399c33d2161289e91463da7499c03ca4bb750fc0762785a597e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=5f11dee9b7d786b9f9e1efb6fa1fdb752fd47b4c5baf9ef6782fc447eae47281",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/939f2852c7e3fdbb8385fb5cbd0693f30436809a3b6bef2b1bd357d7f75ebc80?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=45e2aef6ec5fbd116fe400d4d18feadce93afe9ec0f9b701d57210996940a71a",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC_0293.JPG",
+            "size": 721583
+          },
+          {
+            "uuid": "d8f0b109-e481-479d-9f16-9acb4c048edf",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/973e56a7f9af0935347a44ac5b868f7793c29c219e98b14819a00cc3ea6bc40a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=28bb52573108bd7f2c98ddcc267cc68074d09516ef5a3bb4ba131a8db7e45a7f",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/30282e6cb5ffbea3d771469b121096a490a458017c1bdbd5a594d54ca8e2730d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=ef4fa2f5aa8adc6986090ad01c72d4bc0e154277f72ef7f765eddc0a8475f532",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Konnad_qr_code_bag_ocean.jpeg",
+            "size": 172451
+          }
+        ]
+      },
+      {
+        "uuid": "b0d6117a-3daf-4d9a-aca9-7e1ae06880b3",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Recity-MRF-Pondicherry",
+        "displayName": "Recity",
+        "cardDescription": "Founded to keep plastics out of the environment, Recity are creating a circular economy - enabling value chain collaborations between brands and consumers",
+        "slug": "recity",
+        "type": "Waste Collection & Recycling",
+        "location": "Pondicherry, India",
+        "latitude": 11.9416,
+        "longitude": 79.8083,
+        "recoveredQuantity": 330810.938,
+        "recoveredQuantityUnit": "KG",
+        "mainImage": {
+          "uuid": "8f83748a-b2b4-43fa-bd37-a16c425d9281",
+          "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/2f62c3f51e82e006a13e299e7e77f9a8249ae236a610f5006775fe313ecd6e79?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f85766d1405f47c6781df823ffdda4db5b2153980c139bd1584983a941eeef81",
+          "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6f650f2ebc8531a3e9ce04be9d9e467254ef6b8ece0427261cae47492d308dc2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=04a7b32c1457f69b6920cda342ee5d5fda3285bf61413fe83c072226012bbe7d",
+          "processedDirectLink": null,
+          "processedThumbnailDirectLink": null,
+          "fileName": "20220418_143636.jpg",
+          "size": 1023246
+        },
+        "images": [
+          {
+            "uuid": "7a738cb0-38f9-4b6c-8c1f-40f1a860dc6c",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/fe2cf68e77d09dfac4666895c1b59213090a75c866c5f04d97509c86dbcb7dda?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d0cc89ce0c67ee9c420e9a9246e879268fd97e8dad88ef706fd6325922671ef2",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/4fe4ed16b8a1cd96417e06eac8f2036278fd6b2275d5232dbe77d29834355d1c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=15a1d6468f74bc4f49321c5b105897b322d7eee4e6a712bce4a3e78f88dccb15",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Clean Up.jpeg",
+            "size": 113927
+          },
+          {
+            "uuid": "bb6b4079-d683-4e1c-a1fb-046a6a222c57",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/fa8fa0348b2833fe850fcb3cd9521f6c4518e3491f16e0b2cd2cc424ec772c7e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6ccf97da4e1e7508cad8caad2a4d335ab20430d2db3b122968181eba1a95e189",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/01fcf645f8949acad4a808b0f558249e0a670f86c8ab180ab17e74a0810230a9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0097d4e4e379abb0a291ac7423208d39658b6c386bf010eff1bd5cfc17b80c36",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_20210703_070122.jpg",
+            "size": 931395
+          },
+          {
+            "uuid": "f125507d-ca18-45cb-b73f-d7796e89e6bd",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6121edfb3fb61c6f40768c332a59029956ab4bf9303cad26f9ade2de6a79dacc?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=89b37ec21eec1b587ed99521b0d113e9df303f264429291cfb8dcc8d8ef81de8",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9cdf3ba1992fef5635f549831270e75dac484d629b0eeb3981dbd4eab8c14509?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=44eae5c2518c96089abdcf44395c39ca2f145f75634d0a61e82d6de7bc84aa52",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Meha Lahiri photo1.jpeg",
+            "size": 51475
+          },
+          {
+            "uuid": "e29ea655-6592-4dd5-9bde-e3e8bb8d502f",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/0872af52acfb80fbaa4102e250133d87482b5e8dcfceae6c130bba33e7bf3da6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6943533314787d5406d34d80cead2e7cbe96f84701131ce4ad53c991f45181c1",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/b995ce03fd81442aee326f3a32f58139203e39a7d4b139d71eb823608f17d291?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=c2f6a2afcc663d8a937fa79cf81b7777548fd702ff739f4b5536d2de8f7bb5c0",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Scanning QR code.jpeg",
+            "size": 141478
+          },
+          {
+            "uuid": "5685eeb7-cd4d-4926-a61d-70240e49f572",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ba9578bfb5b66ee4770f0c47eecbe6b6225ef5ea5ac88dacc1930ba8ecdba1b5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b0372e3fb83ba67abb7c24443a61faa85aef11f683291b87e96c0627827af776",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/4d30f48fd63f9f617d84fcd71ff7f2a2372ee3bbd0e6b8e78992de1d85af9810?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=c1b6981f5f3012aa54b64f92b9c07bf7d977780f90546ebfad37830d4c7c23aa",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Suraj Nandakumar Photo 1.jpg",
+            "size": 25172
+          },
+          {
+            "uuid": "fd1b31db-a8fd-4963-9118-e37850831b3b",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ffe8345b900114e9c520855600c03d86b0e67cecf84b08b2937a0e669f152067?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=bc7b6dc4655097cfcc6fd5a80596335922c7c39d144f9ca0119b478fb6bf51f0",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/15a40005f81e881de018c5af92796190daead075c7f90935c55ce96bd9522c05?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=3a7f0ce05fee5b6d6eef926592a9895913fe5583813da3b1f458df96699ff065",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Waste worker 1.jpeg",
+            "size": 150331
+          },
+          {
+            "uuid": "8c6dbbe0-5c43-4bba-9bcd-3762d51da76e",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/719caae85142d9af7956b001d2b9de7a31f8ad1759c18b8bd0ec6f7dad2a0d74?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0bd661571dda4ff35d85d7b8cdb98d16dba7d999c541555787485e46edbccf90",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/545bebae3e907fbe0b2472a4eb9524cd5a4f2717f8bba4c966aa2745fd5013a9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=07b44401305bb37df84c064be6ce89e23bd082772f35e18debe63fa00e0eab2a",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Waste worker at the beach.jpeg",
+            "size": 216211
+          },
+          {
+            "uuid": "daba84d5-5481-4dc7-bc51-3a4bc8af63fc",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9334db10f021f5341a2e4c4c26f7e710f6f0fbed32bf25d5afda8578cbb238ca?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0eef05f3f5a8fd843867ba2e4899c93bb60486e879063143837bfdad9408b0c4",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/dc0801f268a99549f8da8bb2707a01c351146a5cb33cfccdea578788e84c801c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a1cc3b78cb640de8029c3f821811fd7bc786c088fe20cbf19f2bac1553e45428",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Waste workers collecting.jpeg",
+            "size": 119287
+          },
+          {
+            "uuid": "614838f8-3332-47df-9242-8085d1423084",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9f32f427d0ed0c003810b4d8e6068feeabf5542414e80114c87ff7a59a2e35ff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1cbab0d998216a8be065eac86cae7c654a9ea0b91aeb576e6bbea21f2989957c",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/a40ec5da254663d744b364ea23be5315435ddc1132ce46eb18370afeee17dba9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a046361ad7c103649ed4211afcea954cd78d721f3acf94cce088d037438d80fb",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_20210703_070846.jpg",
+            "size": 805260
+          },
+          {
+            "uuid": "44e495a0-677a-4c83-ac14-2ec8d5568bbc",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/fb7407c0d1e73c1c552c4e3a3e2e0e6e24d3947a7b5ba5b2ca4f931933200508?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b0e74ef2c102660fcf415b9950853a14149e5ba53aaeadc4c588cf95c8257ac8",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/589a7ff63a23ad61d7f0fc99873b3aee0b841349c9a1099af791820e2e39e4f6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1bb142d0358664d1c88ea624400a170a54d31d3e2dd8d3e558f262418b91f8e6",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_4979 Kopie.png",
+            "size": 879706
+          }
+        ]
+      },
+      {
+        "uuid": "55005811-da44-4524-9636-125d1be34d23",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Vrecycle_MRF",
+        "displayName": "vRecycle",
+        "cardDescription": "vRecycle helps over 25K homes manage their waste self-sufficiently and have built more than 2K composters and 200 community recycling points.",
+        "slug": "vrecycle",
+        "type": "Waste Collection",
+        "location": "Goa, India",
+        "latitude": 15.2993,
+        "longitude": 74.124,
+        "recoveredQuantity": 133961.02,
+        "recoveredQuantityUnit": "KG",
+        "mainImage": {
+          "uuid": "b1a7b779-fdb1-4218-9a7e-42a67f1c72ef",
+          "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/74f647124050e795225ab4ddbae2c3958ea746295bc82b6d882395142c66ef49?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=e448840b9e2da515c8ff9d39699c3c6120c77658a0c2a11277393326d24bac50",
+          "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/275c324b160ceb1cf30ff99ab35c9263c29226c756e2439ad6d7cc12c194f1b6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fe830e9318e0387b2b32081e117fdc0d5d5af2fd0339f96f446ef63cfba12d31",
+          "processedDirectLink": null,
+          "processedThumbnailDirectLink": null,
+          "fileName": "Day 2 - 11 - Brand Auditing the Waste.jpg",
+          "size": 336655
+        },
+        "images": [
+          {
+            "uuid": "3e5f97f3-cfdc-4263-a009-b36fb87986e5",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/166f899fb3374342bb8e933709037111eb88fb063a948e3595b79e662421ebb3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=edd95a67b1c724e07a5f7cf0d5db5d5105d7031d376c5bf65a95539d6ca61a2d",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/c2c9b8f2f8d35ccf636582342e80b2841d04a35730bf29a749fb04cbb7d7f38f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=88db33fd64875f40fa629f108fd708490d1b2e7021a8f993ff367e13cb00a55a",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_8877.jpg",
+            "size": 1013335
+          },
+          {
+            "uuid": "02d4efaf-8fc0-42c4-8ce5-c2ae7bc16fd5",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/2a9efc2971313085e5268f62c5290abeb095d5a8a039ec3ad338dcaeb3118ab9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=69f741ef64a09f341669e98c2829588a780735b5e7904b42f6acc96eddd1a198",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/f0d39b9ec23b4c8de4bdbf4063594fcb6ffba6d1c6ab8b8b3f7e97c854ff3659?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=faa7869ce74b3ec7fe20898a5df7a5cb63805eb21af8fd2577d608bf76197fff",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_8926.jpg",
+            "size": 968102
+          },
+          {
+            "uuid": "6a26a1c0-588c-4c74-b72e-8b94664e7dde",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/a62517768d15dcf5c93a67e408e11524220dcc8d4119c1d928737e2215813f69?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=779521d93d0b5e85b43a9f4d1ee06636a8a7f57e803d615360d604b56bb55057",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/584621bdb3bc99db9af14688053b8cf11a7353afe8c9dc9970cc0b977b6c6a2c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b65e583c3c7e50507cc879c9dc0aff553a4c1df5264b4166f06f5504adcfa121",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_8943.jpg",
+            "size": 967281
+          },
+          {
+            "uuid": "98879640-a874-489c-b410-18857180621f",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/769acaa42c21ad7a1e83022176895215eef992bf78e4fbeb4437369d2c5545ae?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=9871e888839b0e7c61db5771acdff4d0193d2093e60600c68b1a035b317b8bb9",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ac79007465ffd38a13e35800b81e46374b90a8b3f4b59de9ad2b820f7a1cd7ee?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=755b4a3199e61300c5f01164db3f0af25f338e075d96ebc8738e1c63667618b7",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9050.jpg",
+            "size": 722963
+          },
+          {
+            "uuid": "c088dc13-b337-4684-b7e1-f6c5d90df5eb",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/0ba61506d7df303b49c1739488f422507193fc05464a3616e9b332f44d88f2b7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=e5ef307edfa86d207470f00c0456b2b541ecb64d36f9a8c7584ea6d1f9918aa0",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/a6e89cdfc96ec186ccee7d3545d55d01b22e9a90cea676150c45043a049d3d78?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=18da8f43a93e07ff261eb3ca61a2ee22ebb3386b0fa8b731c3cbfb4c4f0abb8d",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9094.jpg",
+            "size": 845297
+          },
+          {
+            "uuid": "481ea476-521c-4492-8c8e-90b93f5085d4",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/edfd13a40c6438165dbbdf929d186a101c502399c15bc2bb447c2d1e9f6eb377?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fe4739b0617a99f3cff43d9304fa20ef55eb03ee3573ef574a79b6749e6a4a6c",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/1f327af4da3151a9e8c2a15a04b5f6e6430cd85013af75f3019881f4076e50d4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=715894d8c5a589736c062d2670798a12214a2d016b03b221c55f57803395073c",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9097.jpg",
+            "size": 903045
+          },
+          {
+            "uuid": "7170a8a6-7d0f-4722-9fe4-b64b52947958",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/d2e034be51273bc24b2530df90d8fd0fbae96cce6df0e253bfd5fbc5aa4ac260?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=62645a025788f61e31e3f6df5f48b178704dd54248c1dd72f1f39d21097f35e3",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/52d4d3eb5c44be2ae028a190d71af505d3ba1ab6bc16bf2bd7acd4300af61631?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=02bee0f6a6dc04328086c69403a3463a8a613fa447b7fe3f2165ee5ced11469d",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9132.jpg",
+            "size": 801807
+          },
+          {
+            "uuid": "a9a15271-2a00-4231-b654-284947039636",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9d5db7eeff4fb1e2db9f12ccc95f4c377cc9b718dd9f3b5aedc4bcc78c8429c7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=318e04977b8dcf7a6a9a8aef2ea3c86419cc7c2841fe9973c035603137ab1699",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/0cee1adec73288276845ab7be43f5190b1dc3ccea6994668973ccbe4172ab53d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b8f9f6016d5a662c564114c4cbb62d6f52de6063178fa1d09a09d2e5e36163e6",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9217.jpg",
+            "size": 794265
+          },
+          {
+            "uuid": "2b7a84aa-a078-4278-b3f3-3646b0a427ef",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/16f088f75a39808bcb91ffb4055732eef91b510ae9235c887ae2d1fb14428b98?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=529a0c239974a80927a33ac45b17e3451435bfd26af6047f203c473e49d99ae9",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/3bb5efff4d432a99637d8d56e3b9938688db8f26d79f3dd13cf8d0bee8fb2ca7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=61e5bab0d02d9b0dee407b9c38500accec59a90f56f5bfaa54bec014d6ace558",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9288.jpg",
+            "size": 907209
+          },
+          {
+            "uuid": "a2739983-cc17-4284-8b1e-5405ca086944",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/5d8ea52080299f7bbd18ac235e7552ee33fa40ec0420eb4fc4602780a916219a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=91e364a7d8f0d4e168080311484c26763a4f8e4a1bcdc2aad2c472cc3c7aa0e4",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/561be9b8b833715f6079923b48fbced6ad8d14df8995328270f8ef8ea5cdf41b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=e65f0ca8e8e34fbf637f2c631cc4920dc026e7c257cc6b6b5950fb78ad3b2fea",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9343.jpg",
+            "size": 835776
+          },
+          {
+            "uuid": "5c2c4081-7bbc-453e-a4fd-4f5e0d8ee93c",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9322855f86c735f39a5188cb08cdbf0bdd967c52d56eb6c1d347589f41bd12e0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f63557f397582403ec6ba84b545aa83a30f716122ff44fcf1f868fbe8b9fdb66",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/62cc12a8c6b71d4ae31e0302277c7e608984b530748e33a41c3f2ae8f28b7cc2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=085deebcc128989a042c3b819457d16414bf63d28dcf471e907e1fa5b5702f13",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9379.jpg",
+            "size": 597644
+          },
+          {
+            "uuid": "dfd08895-d3bd-480a-867a-b90296af2541",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/33918a28cbde9d6278a2305a50dd2f118499f8b1255e95e853b9f7825a9327bf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fca6b19246f0c00728225d8b8a505ae225891335ebb9e22f2f8fa53d5a1632e5",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ba702c19a4bdb4882e462075ec1f9ddc0849ef2668d100cd03dca0c8a5d0dc33?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f226e7bc923ee8ac6bcb3c1c769e02a1a30723adb99101f3fb98220635caa747",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9477.jpg",
+            "size": 515420
+          },
+          {
+            "uuid": "79f24c8a-d767-4090-9d1a-3b071bcd8d71",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/7174951e00031876b921b1006fed7e464b3f6054797c239be6f27fc19bc4141d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=3ad92d8fdb2a47bb290b115c223327376a261454412cf15b1e225236cf413abe",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/dc5aa7efe01fd52be9f0d057498dced420dd7b674274e7acc309504ce869ad94?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b86ee5daa7f7c4511fa0ec781a0d9ae061df89fcaaee750d4488bda3f179a63a",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9550.jpg",
+            "size": 923588
+          },
+          {
+            "uuid": "eaa4a88f-d0cf-4886-93ca-e83f4433bfbf",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/af142515ad9a71fd803d29e5f448a9ebcb7c325e639dbdcb797f147254067a5d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=33008e2a28cf64291774836fbcd44d1523ebfcf2cac7175f65874a7c848c4035",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/a7cc6e3892b01247a0cad3b5bb053db0fe5686d619b36f6ab616e1941d7cbb25?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f020398cd93578aa780d3365a7a687343c135bc0e289f3816ca7db115f23073f",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_20180911_132707.jpg",
+            "size": 687205
+          },
+          {
+            "uuid": "4e1ee551-226c-4a13-a9bb-faf4ccf83a45",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/3137b727834c415431431ed691484ac47caabe9cbe2fe8a1785d7e93f9cd016e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7c52a0d4c2313bb4322882b7ec750247b58f48a87dc95722087aa79226bd5aa5",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/80ceaf5c870b2ce8425c0fb8757ec253c5171dd960897a982dec1a6480f02dec?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=5f19e8dcd30a3c0edb7024767595a22f6ce8595301217442ac522a2f0d9c9d7a",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_20181214_151438 (1).jpg",
+            "size": 437871
+          },
+          {
+            "uuid": "92ed68f1-a334-4191-bab5-c7d4f40aba26",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ef25e759f41b8a2bcd4f99c5adadc5aed1003ee21a16f5d1d08a4dee2bc9f2c2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=c274245ec5d977ef467fc19dc70a4d0e351ce30a017f83bcef45640c5b6e301e",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/7e1d7107e117d2202ed29b2aa511eed0824c2cb5a080ff62e2a9ec2cbca75ac0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a9404647f3dc21b343fbfa117db7b8b8cf623bc65113f5928e1c21a85765bb2f",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_9462.jpg",
+            "size": 733192
+          },
+          {
+            "uuid": "7aaafeae-ffe4-4157-8ebc-d7574f83b159",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/f7536f62583f53c9042a122a21a6b681d99930a45bad7a05ac3f2758f3625736?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=eba7539423c44ba7c9a5bd80ff8c5561a203bd056f987c5c56ca58b3f0df22ab",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/50f00541021090e8e7e35f39d3bb8bd5f70667faa766a185d9c5a155f4f79c11?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f6e6b6b143227c9d3c6cc212fc046bad51f5b74f1a152ae224f00983351f6bfd",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "WP_20180518_10_28_00_Pro.jpg",
+            "size": 621537
+          },
+          {
+            "uuid": "3217ed41-f432-4647-8d07-347a0d455c74",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/427ceafc4091f7f8a2e6816661de65d46b1a193d0680f2be95e35a2b7d334e5a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7cf374265ed05092f766dc3d69db8975c3442cec14cd55831a7a809e5ca5fe7e",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e7fba780789fc7653af3aa3ec1a83577146242607eeddbb97204358c3e44719a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=292ca8a27e4d3944b4e29232459d7523a89493a4dcafce2c7e1bd09684a2d6b6",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "SHR_8875.jpg",
+            "size": 946738
+          }
+        ]
+      },
+      {
+        "uuid": "5e179d5e-e6d7-41c7-aad4-a4cd25994c84",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "EcoBali Collection",
+        "displayName": "ecoBali",
+        "cardDescription": "ecoBali was founded on the idea of 'getting responsible with waste' due to the lack of waste management in Bali and are working to a more circular approach to waste.",
+        "slug": "eco-bali",
+        "type": "Waste Collection & Recycling",
+        "location": "Kuta Utara, Indonesia",
+        "latitude": -8.6597,
+        "longitude": 115.1633,
+        "recoveredQuantity": 499205.88,
+        "recoveredQuantityUnit": "KG",
+        "mainImage": {
+          "uuid": "e83c32c2-6222-4e68-9300-078777b1bb04",
+          "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/4f442a360e81321b1a7bf0302c63faf20ba69bc7b044e723c029762b9402ea3c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=9143dd6e92f175ec5df77a741099c2494c6a4963ba5b5ffe5e42e46946b560b4",
+          "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6dffd3dd597c202c00789e1512e1a5d9ef303542eca31fcd2f805e69b85ac533?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=5ecabbc59a50d90fbacbf60c4ab1f0551df226ddcd5bcfdd8d2bdf9ebfce54c8",
+          "processedDirectLink": null,
+          "processedThumbnailDirectLink": null,
+          "fileName": "DSC02395.jpg",
+          "size": 838619
+        },
+        "images": [
+          {
+            "uuid": "969f2a3c-f2aa-4c71-8652-afacffe94349",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/8ac5e90ba5752c88b25d3776a3ae6cf3aa05a8524b00112b979e41e9c600604e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=66b70fb2ce09d401dedc7d70fcc6750eda45062d54179ae3b18c18c751611a2b",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/559c7ad6db44006900e037c37a924b56ac986ce72bd66de7f75daa9e88d4665d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a8f446f4583b102db28c568535b1090d27041bfcff4cbefd45af8b0064780cab",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02523.JPG",
+            "size": 933356
+          },
+          {
+            "uuid": "98bcb1f9-d85b-4998-b76d-cefde791a46e",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/7a1906abced635755e6d77b1bc00de61c95e36882ec8e1782173612951dba03a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=e129f4d243f586bab3683926fc350c5a70a6146dc8919725dc3e1f6e4f7c105a",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/d2a074d496a516ff1f28dce1aa6726f15fd9f9b7aa34778bea5a0c74a7a02945?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8f0f92cfea5f1131ac8dca5c66c8940471afbe7e0333decd1e4a5059331eeb32",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02265.JPG",
+            "size": 642408
+          },
+          {
+            "uuid": "7863dbc4-24ae-4119-b24e-61805dd7328a",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/d96026f2b716ed477a2624ca1f708f24d1d9bb2cb58a1e16825d289bbc49d99c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f2bad4cb5427787d5697d7a2d332a0ab0f99d5b029542102583745ff4da9b239",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/0d734b66277cc7b81db6403fd58471524539b324f8b20776032caa7cf99f4a9a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=71421b2a97992053146e4e5a202532d1fef135cd197b8c4ebba605b398e3d4ba",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02281.JPG",
+            "size": 686248
+          },
+          {
+            "uuid": "74cd0189-50e3-4e28-8921-c95488c27378",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/359b5872614825892d49643ff8f97cceefb418d24d28468c8fe171a12bec47bf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=051cf0398c6651a8f90afa07c90a8fb5ef1655ab5033b6a2f0538625d26b6ee8",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9004e786e77cb59568c2e5d513089da7a258219a39bc0213aace57f750be03f3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f3ce4e8f8a790f8301f459542b2eb770e9a22d9ead73a42cd7648274404acfc9",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02288.JPG",
+            "size": 724397
+          },
+          {
+            "uuid": "2c5177bc-5b6f-4a9a-8b7e-2fc118315f77",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/026c1cf9649ce02ae4a841632de00a1bac7470f50fdd97a13a70d91e2e100980?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1caa1eca45b01884f1e304a6abda2347a51e5ab00434b4a39febd75f07d5becb",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/c019a462676800f6f12be2a21ac814be1a5089b1f566a7679bae48f04360063e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=4f7f013892f1dfb18188f81d8e7a3329af0c164aef928533b36e3bf8d2183111",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02295.JPG",
+            "size": 807818
+          },
+          {
+            "uuid": "c175f196-6be5-480b-ab2d-e997ecea4a5e",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/531c48850836e96e576c34c407e00e6f0151f05861a4b2a19dd584ee7efb6873?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=bf73594ef92fe13039ee32266ff059b419da23743cb028eaa2d5e10c5dbbd68d",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/7d8a64064b1e8d5b508e8858aee907b71439364d4906f8c5fceceea0bc1e09f4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=9426e6c04b40ff37eef87f226fd30a800c3fd991cabe78617dbb993157c8dae1",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02410.jpg",
+            "size": 880091
+          },
+          {
+            "uuid": "c0cebb0b-cca9-4dfd-9ff2-9dcf66d6b0b3",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6c60c2a1e7dcdcf94349f4013436faebb25298fabff56ba463c3824b126dcdb7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fed580157725dc0ee0fe7df3a7d49e99d0200086a5f1cd1872ebb8977a2fd008",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/b330167c7292c03449ad5f35a6ae59dfb049f61d38215594318f7e91b8c85ee6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=03e12320f6ae949c2e7c6298df492952225001bf5f3c675067fff468f2a21afc",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02413.jpg",
+            "size": 813629
+          },
+          {
+            "uuid": "e8d19da6-7d9e-41ca-9942-599b44775848",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e583cdda10202f1d572539e27b2d6532baf5940e4fefb60d9504295675906fb1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=db51196fc2a5b2646a51fabb10f472c12361b03b6bd299938a383e7e87ac2505",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/f50dec9639b3d6789361545f30d49b678c76c88f8416e5067c68444bb613066f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=67fedfdc6244f4cfa4dbffee1c259988d9eaa95374b37df2906e689ad3e0ead2",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02420.jpg",
+            "size": 652561
+          },
+          {
+            "uuid": "ac913bcc-f20a-44fe-aaae-e79a6128393e",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/515baad16d6dff7bd778fa6c5568fc3324b86c4ed2e17a9029fe760cb88b531b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6addf6365f51a39cd31ef94f8b603c6c2b3767e843e29bf2dbb09702ad82574b",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/faa73cf1e6a5276ebb19a6a95444f55a795078f7ccd1a9cd4e96f98abce55480?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=9792f4775aea1118349e852d6e53fe55adc41a5c1141ed24b15a15a771027da2",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02456.jpg",
+            "size": 581700
+          },
+          {
+            "uuid": "172f8c0e-5809-4124-b4d4-59ec389ba967",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/db03134d6ed2f2298e21c1c5ac18ba927fba7d3c1d04865c8437e40e70b7233a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=063d680949666894ae852ceb8ef620c3a9dd9fd188216ea8d7ef05fe9731d9e9",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e13aa85c5a3e1b108724db0c2f266ddf195b7a552c08d33bda0773387f3f5819?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=e82b1d476f95193d2b762e608c87494d856ac54003ab13d86738e4668f1ab82a",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC02480.jpg",
+            "size": 562205
+          }
+        ]
+      },
+      {
+        "uuid": "498233bf-a001-4a0a-b0b0-bb0566e909f2",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "FULLY_ONBOARDED",
+        "name": "Comped Phnom Penh",
+        "displayName": "COMPED",
+        "cardDescription": "COMPED is on a mission to collect plastic waste along river and water canals to protect biological diversity in Cambodia",
+        "slug": "comped",
+        "type": "Waste Collection and Management",
+        "location": "Phnom Penh, Cambodia",
+        "latitude": 11.5564,
+        "longitude": 104.9282,
+        "recoveredQuantity": 95326.432,
+        "recoveredQuantityUnit": "KG",
+        "mainImage": {
+          "uuid": "099bfdea-9334-49f9-bb72-53bd6cb784a8",
+          "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ed8c6145087d8c187f71a79e9be80cd558d6cc9013cbf2943191aea7ac7f250a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fa20bccf5bdc37a531c65f487820babccae604e63b1f486fc3b01f258b5eef91",
+          "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/119bccb726ba0f8da132b529d9f4cbf7253a3a6cb5dbf1afb6ad8425bc42e6cf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=322bc813a943a243c2c631dcf04bf8b1353178ad90bf5f8bd6e5cacdcdd3b7cd",
+          "processedDirectLink": null,
+          "processedThumbnailDirectLink": null,
+          "fileName": "Kompressor in BTB.jpg",
+          "size": 900016
+        },
+        "images": [
+          {
+            "uuid": "21cd144e-2c0f-419c-b7b2-92070c9417b2",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/be2a811ad5bb5bf4cbc749483ab41aa2b6ce60dc7c45772effc5b4a21978fe60?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8ef3abef2b87c3e5b244c1f9603647096f5c132d24ad57ed0163a53fe4dc3ac9",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e9886d93ca1aa9cd783e89ff3d1a9c95f24746696f07dbd9e0468075fe3a935d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=430033d2245270b22afcae6756939cdbc6b63adf52adba7a8d9a350a28a70b35",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG20220311133833.jpg",
+            "size": 958227
+          },
+          {
+            "uuid": "940f1d20-4094-4480-af9e-0adc61b0337a",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/3f109ffd6e1b36d54352ad87cfe00452b41c7ba8399d0468ea8fbaef4da514e0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=c15f580c060ee37fa6abbff9ef2c120a1934374606baeef838694ae6e4c498bc",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/65bc812e256b030f2b13608a859d09194de4b43410d3af5a768d630792934cbc?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fd95d78158bc56d6546372d26e1c1b6ca59ede65d222c7f0c43cc024d14a66fe",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_20220719_140143.jpg",
+            "size": 1009425
+          },
+          {
+            "uuid": "5160e07e-a9d6-4383-9952-ffae6c3803f0",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/c70fc7a7ad37873322b45462461cdac363ff27eee34044f53afe1e0db7830463?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=37c1512191b3bb8f5576251be6c89249ee96b266755584491a37be4ca48ff1d5",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e7c12b4132f0d5b22ffb1861da0ee26c880765d050dd856aad8c65ed760cf25b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=420c10db8d10c81f4f757f5748b18383af168e6bdebec30d24713934edca103f",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Daily Cleanup Activities_6.jpg",
+            "size": 864337
+          },
+          {
+            "uuid": "9bed1ae1-c8de-4344-a520-f71a0346c1dd",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e725ca94f3b7d1e1e82836d465a7f7217c16fba89affd90d4e9ab7c6df1e97c6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=faf2055303abcd2b4504c1e6ba98c7c5546ec8d9313b87f7c23ac7b13dc2acd3",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/adc3001218ecceb6f3a809a1d534d95364220639213c796b768fc603e6f79eb2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fbe879db6ecdb9ffbeea26d6edcb10e133d7818e90f52ff89f0648758f90172f",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Daily Cleanup Activities_7.jpg",
+            "size": 780924
+          },
+          {
+            "uuid": "92bd4be4-468e-49d0-985a-616a83274795",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9b8828c88698f2e89e6c7aef7b9279acf94bd10480fc243cb91920ce7dcf44f0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=614f9aab7c65b1a396f0b15783fbc4ae68585c8b9a73b150eb8772fec9da4522",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/2ed1039ace4a1edeb0b5abbb606cd48ce9a7d76d3abd0c8e7042c8095d11c141?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=431f1579675fc4ac68af2b08c6e91fb3b1ac0d9afdb2c541a3b94a19a47255de",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Drying waste.jpg",
+            "size": 877207
+          },
+          {
+            "uuid": "6b0aae2f-02e2-4a2d-a0d2-7ead2fec26c9",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6218a3e1962ced835fdb55b5ea2b04a59c04282080522b09174c52d58a585a1e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0686a21612a5da740a438a94985ff4f34aebb5ba7c98fd87cf8a8df3af80b708",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/dbe7c8fac3a63c3220543aff819bfc813ac4b02ff12e733720d1cf59d8896060?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=ea9722d73a57d20a10deb088ee97190b8dac383a369e2f0e39ddabce48bedeff",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_20220206_141144_364.jpg",
+            "size": 697289
+          },
+          {
+            "uuid": "00b5c48a-b8d8-471f-8888-62465a1857d5",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/a59767af6d6e824f813901d2c0be7ee91b7b5bf4414559adad12d46c4a2a116e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=73eb6664672d3ba4a96cbb9dcd4e32d6a12114125eeb7298b62fff251a5c9423",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/af3ae3a681503ffa6620e1591b9bb69b747b6848fdec014bf186c8776d332932?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=eeb24f48e2838f839bc37b6b90cf58599b02f1af4ce91c0fd17e9522e11c25c1",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG_20220219_184502_414.jpg",
+            "size": 620156
+          },
+          {
+            "uuid": "08a00ca2-8c57-4a66-9ded-31fc97adc5bb",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ad0b47d0d9ea2fb069d842ba5791447a7be877a5f1bd10adc161cc35824756f6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a373207dcb3722b81b91ad7559252275daa576ae432f7ffe818a996393e4583a",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/71387a5091de5cc54d5e41291569d93298c250d4087967818d82424da57de6ea?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8738515c2e97fffa478feb8167107d4b3bab1a481a306dfeb6edd31298c7f93b",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Waste Transport.jpg",
+            "size": 820692
+          },
+          {
+            "uuid": "b773ff41-6049-43ca-b7d8-204370ac7341",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/71164dc00430179bb8cfc7c471593cb163d68b5c15579d656cc77c4ea170454f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6a750f6671d5b5ee6d6fe057b5b1636d738f10d3091739fab8162a11e5cf50a8",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/8bd6763392427f4730550eb70f7f538c3aaf8618d63043878ef002cec3ee76ee?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=74cce8b1e26bca99565ee138b5f584d5b71afe71cef8f04651f1422dd9f8434d",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG20220311133833.jpg",
+            "size": 846559
+          },
+          {
+            "uuid": "451fd951-954f-412e-b8f8-715c9327e819",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e624acd952c16504247b71cab9d545fd10c62e72efa45fce22b6ceb569ca9568?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d927bc25f54647dab17bc0f50e0c0956ab6ab087262819ce85d909dd41a46a5c",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/1401d87964cdbe3a7b8f0b911c69203d344b836a37ce3cdc37eebdbd2f2cc329?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a87deb56ebec5d7175bdecd422f2e197838b4b909992fbff01e8053fc82d823b",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Weigh and Record to Cleanhu App.jpg",
+            "size": 234376
+          },
+          {
+            "uuid": "4ae5f857-9595-463a-8977-a4e0c89da20d",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/dff0c9f762e4bf70bf7b19c53336118be75940d11b18a58b15245820398a9036?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=bc8179ef85227daf306b809e8abf7724daaf1b695ef449a980f2d8df8f653ace",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ffd3d91bae35a9ca931dd49ee8e729f243a48bf32e64b2d4bd29e2784ea2c743?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d9785d031ad8fe380c3ca9f39fc41ca07de3614aa55fc7b3d59f5db97dedff3d",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "PW after clean and dry.jpg",
+            "size": 339152
+          },
+          {
+            "uuid": "63548493-05e7-4141-bfd2-a9abf8f30952",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/1e26e2c8c7edb2923cde87d6d0bf338aa69f2b928e7f28b40ba2dd024ffde8d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1d2e975912dd776f18349bd3edd3f7cae1805b7d0027b8e333c647f7529b259f",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e892526e275f2c4cef56a3342db14c72385f538a1645138c3df5fc89e9db7428?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=cfb0fe081760984383df3b6fb8b49d4cf2344f1119d55920631f985ca65860bc",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "PW is ready for delivery to Chip Mong.jpg",
+            "size": 717439
+          },
+          {
+            "uuid": "dac128cc-383a-42cb-b141-818048d0bf63",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/78098ca99026a78a90262e2890f7482c1f24dbe92b6b0011f85b1e5f761f647c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1a2042e5162e7cdd54eebdd158e13d451c17caf13a341528485689e6b9e3ff69",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/0618b63b7bb8ad25498dc2b395271e7c80ec33b6cb4ad0bb714e98e2d67df9f1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=2923d5b9630097cbf4a35e4bbe7e00ef9852a7df45f52aac1d9878e51b93df13",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Separation (1).jpg",
+            "size": 823915
+          },
+          {
+            "uuid": "8c8dbb88-0e4d-49ba-b961-57f4fa25d928",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/7add1c3ce72354623c5609f84d42973eb73b5f9d039da4ce68fed3ff4d3b28fa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=678fd461079b9b452c78391fea6f66d8604301e18ead9613f61a9ef8577441a4",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/aa2f6d0a21cb03f333bc17b90ff800761e58599d30b07298cbeba6a277ec2aa1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f55a7e6ed46aae6ed5f5c3e9dcc931cdec28e015859170eec8be839206091aa6",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Uploading at Chip Mong.jpg",
+            "size": 498491
+          },
+          {
+            "uuid": "a57b6edf-4d47-43b1-af58-ac04b1e8cdb6",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6ec6ec46f1adffa0ff2ffa8ba3dd6970e2966915f52c0807b882027fe800c5be?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=46254c006de21e463e1409e559bf91631e12f284a8878e9b1012cb9e3092f1a7",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/35af373fe3110d5eda7c42d68a61d0e22fa288a85c5f43faf3726216d1eccea7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=562d47a3cc7c152047103067b60475a6f98b617b0d2e0bd60e13990a2997b1dd",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "Wast Weighting.jpg",
+            "size": 676912
+          },
+          {
+            "uuid": "e6bd0b11-1996-4973-9aa4-b48be7cdda9d",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/6a1cb0cebe6e943e79345ae2f8ed9815b91a187cf36e0553acf16ab64f600ad5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8c9822dbe42a82f64fccb997c68f8a2b9833b93fec26ab3089a2258d04daf9b7",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/d3e272134a82c53af1b5a254cbfafcf5e777803c120f82f53c1422dbcc7ed191?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=63a6b9ee4bd4c029a229f2bcb544fc18fe819893028db399c2569e8ea51135bf",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "271439524_6990823690988215_4837850107133199612_n-1024x768.jpeg",
+            "size": 228943
+          },
+          {
+            "uuid": "1a9f56ca-4c78-4f4b-aba0-e746501c6f14",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/bada85c64c9a256875945f2e0734fd9d566c8958f74dc7ab453f9372ae390a97?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=01d89df2f648308739f29027dca6a54f6582f130dca974cbcf90b56234e18946",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/76a85aa3bb467353e90f4d4a2887269812566dd01f89e348fe4263b9ef4be6c0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=855610ff83488aa0ba253b8ed275f76af36075dad812e1c91bb1d71b9111a781",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "241364662_6275549019182356_1602334816251464860_n-1024x768.jpeg",
+            "size": 180315
+          },
+          {
+            "uuid": "b97a28f2-da44-4903-9d33-955f1522b8a0",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/25d88f11ce63b25e5f7816026355f2f7e24b5313dc787397276becb183e00982?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=2aeb09424b1f9a5382d292870da6db39e109e26ea392da2efdf38ab3eec9e190",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/f7b5f416f8fdc407a6e1e4a455f9d9b5c23eb6f42b3a35e09258508c99131c15?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7044ada76f4317ac85e8016edbbff5769185b5aaa66eddd5beaeefc9c888c78b",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "241261658_6275548889182369_236296247623399671_n-1024x768.jpeg",
+            "size": 200982
+          },
+          {
+            "uuid": "b37892c9-0354-478f-901c-9ce425404f4e",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/f909d6d04d05d2140e8e56d1bec5a52a5b8677577d9db8b5bc0f757cd0df0851?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=323d16cb10f1fe468086e92a8afb71cfebd86d7d8ee8acf779d0f41024477561",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/2edc2505697bdc4dec7663e4da75d48e290472b9c4e1fd9eb8328b0dfc6e5f5c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0365649a94859885bbcee9dc2f4ab75488f696f5d4983eb7b38a185ada0c4649",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "WhatsApp-Image-2022-04-06-at-07.12.45-1024x768.jpeg",
+            "size": 214730
+          },
+          {
+            "uuid": "965d537e-36ee-47d8-b9e7-1514971a359a",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/54009defa75fe4ac7cd2d26f43a7715c61ff68074df8e7aabac64c9c941b059f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b94dd010a34c310b4353cad359b9549d4790b3b71fb1bf877d3571537d7542ad",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/edac1e9322158e32a3bd523c7b4024656957032ef485ebacb4fc29e3f47c6645?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=128019161edc142baf67efed9c02bbdbe18b44049ce2f765932a0058e83339c4",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "IMG20190808094947-Kopie.jpeg",
+            "size": 198107
+          },
+          {
+            "uuid": "f74a0583-1f41-4749-85aa-b0b2882f2bbd",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/39e7cbfa170f286611426e8014f8222647cb55f913d9b8891e82d1ee93c6e65b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=74912b2bd9d108008f225fa123b86a66faf143b5bb117515d2d6aa5b5b9ce1ec",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/04b4f364b9571a1d5dc726deff0a144bfa3c6ee335ee7196191e92d6b54820b2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6972b5e0102baf52eb037e96fdf0e45da1baf3c01f307a5ecabdc25996394d4c",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "WhatsApp-Image-2022-04-28-at-08.17.38-1024x768.jpeg",
+            "size": 157937
+          }
+        ]
+      },
+      {
+        "uuid": "9ebb94c9-9ff5-4e07-9256-b5d53efd1a91",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Got Bag Warehouse",
+        "displayName": "GOT BAG",
+        "cardDescription": "GOT BAG developed the world’s first backpack made of Ocean Impact Plastic. They collect plastic waste as bycatch with a network of fishermen and set up waste management structures in coastal areas to prevent plastic waste ending up in the ocean.",
+        "slug": "got-bag",
+        "type": "Collection Company",
+        "location": "Demak, Jepara and Bantul, Indonesia",
+        "latitude": -6.8922,
+        "longitude": 110.6378,
+        "recoveredQuantity": 312230.52,
+        "recoveredQuantityUnit": "KG",
+        "mainImage": {
+          "uuid": "ef9801c4-dd48-4a36-a2bf-e6b909813afe",
+          "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/598494355d6dc2ebbe4e0e96350fd8679655f7af8087488030d6312349c92c5a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=26fae631482cf53efb5f7ee12ed31ad83ef804045e4c5ff4b6e4d84e48be7d25",
+          "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/18cf52f2edaca3575675705b68b44ef42f33c07888e819f8d41736d136453df8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6861017361be03085499e37d8615981983332a42a6603542dd189681f02356e8",
+          "processedDirectLink": null,
+          "processedThumbnailDirectLink": null,
+          "fileName": "DSC07260_edit-29APR.jpg",
+          "size": 438752
+        },
+        "images": [
+          {
+            "uuid": "19f2a32b-a5fe-4afc-8920-903bbe508404",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/d74085e5a9bd50d858eb09abff1bac1361aaf15cd5aa75b1ddaa575a23a5300f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=2bd2dd085c4e1747ac9051f495da7e73a3d3821399c7696d30dd79516fbb1573",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/3ae0ba1bbc4b967fbafa63e8315e6821e18e831d586efe8c36bebca3a4067cd8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b46834849e163325f97ff5a1df0cc9faef7cd8b0860940cf040e07613df4e581",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "DSC07267_edit-29APR.jpg",
+            "size": 525563
+          },
+          {
+            "uuid": "6ab4d53b-cfeb-499c-8099-15b7f6f3ef81",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/8e6267981bfd469f89ab9204de05b47bc741740c8100c86e298859bfeb4fd046?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b8ae469630300b4dc565faf205faa093123529ce9c5cb8f2f0c204b22666300b",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/82164357f0e062754dd26de2bd44bd105848ea9deca967797e2e43ed0bee638e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0a069abbcb821d3cf5179ba8abff8ba1d32fdf3d400e277b74ad3857623261ea",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "200810_Clean_Up_Indonesien_45.jpg",
+            "size": 758373
+          },
+          {
+            "uuid": "e33b64e6-b6d0-475d-9b85-e39cb03b90da",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/ea10519714500c6b439945c6f6ab4cb6c572c1c4967048163c2c39a2157127d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=382f736af8e35c5e8ff5ce17c3572bf80d3a6d2a88072d3db15422be2c6f289c",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/bc048d550000c2fa4d5c6ae3eac7b50c035ce085f89de974f1d477341fade2e6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6411dedb04e36471a0416a112b0a77300fd918cffee2aaf86f2e91b89b54d006",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "201023_Clean_Up_Indonesien_34.jpg",
+            "size": 623573
+          },
+          {
+            "uuid": "b57aade8-16be-4e06-9e47-62c4c94ccd27",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/31911733f67e4297f88246459cadfe3df57f2edfe5fac7a40bfedfa908ee98ca?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7ca3b949397e98ff778ebdd726a3772fb042c368147f408030e7c8b4929e0b09",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/8849333e9bee056c23a17540f2ff92f9ade021bebac75facd0abef678be9d28a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d31032dc4062d616046a804ed7a300f37b1ade89c34150f76235de484cfe93df",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "210922_@Steffenhitscher_Clean-up_08546.jpg",
+            "size": 655455
+          },
+          {
+            "uuid": "c8fb7fcc-ff16-41cf-8cb7-6cc26344dbe6",
+            "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/9dc3aa0e0662e6e666667d4b9e222f7c570941039584825531bc09c12c9ecf46?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=dd67528d28dc96f6f0fefdb9cf2d01d2f33ef5d0d376bdaa921d6d2c2a5dedb3",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/fdd42f1f5555bd64063c96772bfcbc929a5fa745ea5f0701d78943d0ea9d32da?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=3838e659a702d968bbf7693edc99709074e03a60ec00efcb50c8eec4e1b88468",
+            "processedDirectLink": null,
+            "processedThumbnailDirectLink": null,
+            "fileName": "GOT_BAG_Clean_Up_Indonesia_04.jpg",
+            "size": 530816
+          }
+        ]
+      }
+    ]
+  },
+  "statement": "For every sales call booked and attended, we commit to collect 5kg of plastic waste.",
+  "customerImpactGoalTitle": "Ocean bound plastic recovered thanks to CleanHub Bookings",
+  "ongoingPlanTitle": "Impact progress",
+  "impactReportHeader": "CleanHub Bookings protects our oceans from plastic waste",
+  "impactPlasticCollectionImageId": 1,
+  "impactPlasticCollectionDescription": "Two billion people in coastal regions don’t have access to proper waste management. Trash is either openly burned, dumped, or piled onto poorly managed landfills, destined to impact our climate.\n\nWaste management systems prevent trash from ever leaking into nature or being burnt under the open sky.",
+  "impactStrategyTitle": "CleanHub Bookings's strategy for positive change",
+  "strategySectionEnabled": false,
+  "strategySectionDetailsEnabled": false,
+  "communityActivityEventsSectionEnabled": true,
+  "productBackgroundPosition": null,
+  "hubAssignmentTimestamp": "2023-08-23T09:29:51.793Z",
+  "featuredStatement": null,
+  "industry": null,
+  "country": "DE",
+  "mainProduct": null,
+  "strategyParagraphs": "",
+  "reductionStrategyTitle": "",
+  "reductionStrategyDescription": "",
+  "empoweringStrategyTitle": "",
+  "empoweringStrategyDescription": "",
+  "disposalStrategyTitle": "",
+  "disposalStrategyDescription": "",
+  "recoveredHubs": [
+    "3c0a365e-8953-4270-9069-4f9b57ee3977",
+    "55005811-da44-4524-9636-125d1be34d23",
+    "5e179d5e-e6d7-41c7-aad4-a4cd25994c84",
+    "b0d6117a-3daf-4d9a-aca9-7e1ae06880b3",
+    "c236c565-baeb-49f6-aba8-be536e94a02a"
+  ],
+  "contracts": [
+    {
+      "uuid": "3ae12dbe-9e8f-4a2e-9a64-e885c9dc0a29",
+      "type": "INITIAL",
+      "createdAt": "2023-08-23T09:25:18.183606Z",
+      "startDate": "2023-08-23T00:00:00Z",
+      "endDate": null,
+      "period": "YEARLY",
+      "quantity": 170.0,
+      "recoveredQuantity": 95.013699,
+      "pendingQuantity": 74.986301,
+      "isFulfilled": false,
+      "quantityUnit": "KG",
+      "salesforceOpportunityExternalId": null
+    }
+  ],
+  "companyLogo": {
+    "uuid": "648a6d4f-4c89-4eb3-b0fb-903960946a35",
+    "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/e7b6846c2e2a3b26903282819c1d407715d478ca499564a7f03ca84044cc9f77?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=c65ba563c689a086ddf8985bcbf0a3358d2a03f002f32212d88ee73154172e9a",
+    "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/2bc16416345269cf2149ea42a45036231daa7390a33f6a8607bad05d2f94f10f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T175617Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=280a76aa2fc13834692e6c30579d3897ffba1e467356ebe8e5e3478e9c123d69",
+    "processedDirectLink": null,
+    "processedThumbnailDirectLink": null,
+    "fileName": "LOGO + WORDMARK_WEB_BLACK.png",
+    "size": 27264
+  },
+  "productImage": null,
+  "progressSteps": null,
+  "formattedQuantity": "170",
+  "equivalentPlasticBottles": "17,000"
+}

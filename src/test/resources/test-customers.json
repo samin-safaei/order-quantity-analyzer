@@ -1,0 +1,30 @@
+[
+  {
+    "logo": {
+      "uuid": "38bf6ecf-64ab-4713-b6ea-9b3101c9e8e5",
+      "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/schaebens/00e802bc9dbe4351fb20358179766c118f598fa5630f3e2f5b431f22665f5052?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T173205Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=43b392b21ea7f2561cf1f1d6121371db5e275f348043f3eb38fb5c054921be04",
+      "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/schaebens/1ca3655a93e3db00553f373b50939aeef068a39947efc3e20b08f49a8758a40d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T173205Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=e51dc41ba592224355b4994175aa542e09d84164291a20fadfff03324b04dad5",
+      "processedDirectLink": null,
+      "processedThumbnailDirectLink": null,
+      "fileName": "Freisteller.png",
+      "size": 386106
+    },
+    "companyName": "Schaebens",
+    "landingPageRoute": "schaebens",
+    "featured": false
+  },
+  {
+    "logo": {
+      "uuid": "4b3b2958-6744-4f26-866b-fab7ccb828fc",
+      "directLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/37129aad959042d98c8c4292b35636d3dc771a51bcd738ba66ed7c9b02045f62?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T173205Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=fb4cd5611583b8990bcd39aaddbc1ae348a3bb3d98b4faefbf71f9719dfdb76c",
+      "thumbnailDirectLink": "https://cleanhub-marketplace-pictures.s3.eu-central-1.amazonaws.com/admin/aecbc2659bafd27e80e1f582ecc5c5e36c339a9985e9ef5588ab1e818bab0d6f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T173205Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAYGJI4AGSY4AKXFWD%2F20240327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a46efb4456f8affd8a131ad0409121accf498faa4d3db38c2fe18f34fb6a74bd",
+      "processedDirectLink": null,
+      "processedThumbnailDirectLink": null,
+      "fileName": "Logo_s_r_12befb49-93a5-4a50-91ce-9ba89b56353a_394x.png",
+      "size": 7752
+    },
+    "companyName": "Foamie",
+    "landingPageRoute": "foamie",
+    "featured": false
+  }
+]

@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: order-quantity-analyzer
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+  profiles:
+    active: "local"
+
+cleanhub:
+  base:
+    url: "https://marketplace.cleanhub.com"
+  logos:
+    uri: "/api/public/orders/logos"
+  order-by-route:
+    uri: "/api/public/orders"
+    route-url-param-name: "route"
+
+order-quantity-analyzer:
+  customer-retrieval:
+    customer-limit: 10
+  scheduler:
+    default-lock-expiration-timeout-seconds: 10
+    customer-retrieval-lock-key: "customer-retrieval"
+    order-retrieval-lock-key: "customer-retrieval"
